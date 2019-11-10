@@ -54,7 +54,7 @@ img{
 }
 
 a, header, h2{
-		text-transform: uppercase;
+	text-transform: uppercase;
 
 }
 
@@ -82,12 +82,12 @@ footer{
 }
 
 .clearfix:after {
-visibility: hidden;
-display: block;
-content: " ";
-clear: both;
-height: 0;
-font-size: 0;
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
 }
 
 .name{
